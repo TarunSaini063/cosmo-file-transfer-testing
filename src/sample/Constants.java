@@ -11,6 +11,7 @@ public final class Constants {
     
     public static final String CONFIRMATION = "OK";
 
+
     private Constants() {
         throw new IllegalStateException(INSTANTIATION_NOT_ALLOWED);
     }
